@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![Python](https://img.shields.io/badge/Python-Expert-yellow)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-orange)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/Java-Advanced-blue)](https://www.java.com/)
+[![C++](https://img.shields.io/badge/C++-Intermediate-lightgrey)](https://isocpp.org/)
+[![SQL](https://img.shields.io/badge/SQL-Advanced-green)](https://www.sql.org/)
+
 <!--
 **gcentes/gcentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
