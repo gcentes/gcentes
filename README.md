@@ -17,9 +17,9 @@ I'm Gabriela Medina, a tech enthusiast with a passion for innovation and a knack
 [![Java](https://img.shields.io/badge/Java-Beginner-red)](https://www.java.com/)
 
 ## Languages
-[![Spanish](https://img.shields.io/badge/Español-Advanced-green)](https://isocpp.org/)
-[![English](https://img.shields.io/badge/Español-Advanced-green)](https://isocpp.org/)
-[![French](https://img.shields.io/badge/Español-Advanced-green)](https://isocpp.org/)
+[![Spanish](https://img.shields.io/badge/Spanish-Advanced-green)](https://isocpp.org/)
+[![English](https://img.shields.io/badge/English-Advanced-green)](https://isocpp.org/)
+[![French](https://img.shields.io/badge/French-Advanced-green)](https://isocpp.org/)
 
 <!--
 **gcentes/gcentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
