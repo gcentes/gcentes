@@ -1,20 +1,25 @@
-# ¡Hola! 👋
+# ¡Hey! 👋
 
-Soy Gabriela Medina, una entusiasta de la tecnología con pasión por la innovación y habilidades para resolver problemas. Siempre estoy emocionada por asumir nuevos desafíos y seguir ampliando mi conocimiento en el siempre cambiante mundo de la tecnología.
+I'm Gabriela Medina, a tech enthusiast with a passion for innovation and a knack for problem-solving. I'm always excited to take on new challenges and continually expand my knowledge in the ever-evolving tech landscape.
 
-## Acerca de mí
+## About me
 
-- 🌐 Actualmente trabajo en la industria tecnológica, donde me destaco en la resolución de problemas complejos.
-- 📚 Siempre aprendiendo: me encanta explorar las últimas tendencias tecnológicas y mantenerme actualizada con las tecnologías de vanguardia.
-- 🚀 Comprometida en causar un impacto positivo: soy apasionada por las soluciones tecnológicas que impulsan el cambio y mejoran la vida de las personas.
-- 💡 Áreas de interés: IA, ciencia de los datos y aprovechar la tecnología para resultados significativos.
+- 🌐 I'm currently working in the tech industry, where I thrive on tackling complex problems.
+- 📚 Lifelong learner: I love exploring the latest tech trends and staying updated with cutting-edge technologies.
+- 🚀 Committed to making a positive impact: I'm passionate about tech solutions that drive change and improve lives.
+- 💡 Areas of interest: AI, data analytics, and leveraging technology for meaningful outcomes.
 
-## Lenguajes de Programación
+## Programming Languages
 [![C++](https://img.shields.io/badge/C++-Intermediate-yellow)](https://isocpp.org/)
 [![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow)](https://www.sql.org/)
 [![Python](https://img.shields.io/badge/Python-Beginner-red)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-red)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Java](https://img.shields.io/badge/Java-Beginner-red)](https://www.java.com/)
+
+## Languages
+[![Spanish](https://img.shields.io/badge/Español-Advanced-green)](https://isocpp.org/)
+[![English](https://img.shields.io/badge/Español-Advanced-green)](https://isocpp.org/)
+[![French](https://img.shields.io/badge/Español-Advanced-green)](https://isocpp.org/)
 
 <!--
 **gcentes/gcentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
