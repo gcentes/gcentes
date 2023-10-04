@@ -10,8 +10,8 @@ Soy Gabriela Medina, una entusiasta de la tecnología con pasión por la innovac
 - 💡 Áreas de interés: IA, ciencia de los datos y aprovechar la tecnología para resultados significativos.
 
 ## Lenguajes de Programación
-[![C++](https://img.shields.io/badge/C++-Intermediate-lightgrey)](https://isocpp.org/)
-[![SQL](https://img.shields.io/badge/SQL-Intermediate-lightgrey)](https://www.sql.org/)
+[![C++](https://img.shields.io/badge/C++-Intermediate-yellow)](https://isocpp.org/)
+[![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow)](https://www.sql.org/)
 [![Python](https://img.shields.io/badge/Python-Beginner-red)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-red)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Java](https://img.shields.io/badge/Java-Beginner-red)](https://www.java.com/)
