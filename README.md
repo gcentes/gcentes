@@ -22,8 +22,7 @@ I'm Gabriela Medina, a tech enthusiast with a passion for innovation and a knack
 [![C++](https://img.shields.io/badge/C++-Intermediate-yellow)](https://isocpp.org/)
 [![SQL](https://img.shields.io/badge/SQL-Intermediate-yellow)](https://www.sql.org/)
 [![Python](https://img.shields.io/badge/Python-Beginner-red)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-red)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Java](https://img.shields.io/badge/Java-Beginner-red)](https://www.java.com/)
+[![R](https://img.shields.io/badge/JavaScript-Beginner-red)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 ## 🖌️ Design
